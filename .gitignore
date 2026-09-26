@@ -1,0 +1,11 @@
+*.o
+*.mod
+*.a
+*.x
+*.exe
+*.out
+*.err
+*.log
+core*
+slurm-*
+.DS_Store
